@@ -9,9 +9,6 @@
 C Java HTML5 LaTeX Python Windows Terminal Anaconda OpenCV  MicrosoftSQLServer MongoDB MySQL Adobe Canva Pandas TensorFlow NumPy Matplotlib Keras PyTorch scikit-learn Scipy Arduino 
 
 
-
-## Hi there 👋
-
 <!--
 **bhavya-samidala/bhavya-samidala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
