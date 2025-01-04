@@ -9,7 +9,7 @@ Collaboration: Enjoy working in teams to build innovative products.
 🎮My Interests:
 Building intuitive and user-friendly software.
 Exploring new technologies in data science and machine learning.
-Continuously learning and growing in the fields of tech and analytics.
+Continuously learning and growing in the fields of tech and analytics.                                                                                                             
  Let's connect and collaborate on something amazing!
 
 💻 Tech Stack:
