@@ -4,7 +4,7 @@ Hi there! 👋 I'm Bhavya Samidala
 📈 What I Do:
 Software Development: Crafting elegant, efficient, and scalable solutions.
 Data Science: Analyzing data to provide actionable insights.
-Collaboration: Enjoy working in teams to build innovative products.
+Machine & Deep Learning: Leveraging and building efficient models for real-time applications.
 
 🎮My Interests:
 Building intuitive and user-friendly software.
